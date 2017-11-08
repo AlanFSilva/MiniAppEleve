@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types_goal">
+        <item>Alimentação</item>
+        <item>Atividade Física</item>
+        <item>Sono</item>
+        <item>Estresse</item>
+    </string-array>
+</resources>
